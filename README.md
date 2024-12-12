@@ -9,7 +9,7 @@ Welcome to **The Leafy Plate 🌱**, a website designed to help you explore and 
 ## 🚀 Technologies Used
 
 - **React ⚛️** with **Vite ⚡** for blazing-fast frontend development.
-- **Rust 🦀** for building a high-performance backend.
+- **AWS😨** for building a high-performance backend.
 
 ## 📝 License
 This project is licensed under the GNU Affero General Public License V3
